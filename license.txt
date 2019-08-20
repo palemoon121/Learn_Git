@@ -6,3 +6,5 @@ new f1 111222333
 =======
 create a new branch f1
 >>>>>>> f1
+
+--no-ff test
